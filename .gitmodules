@@ -1,0 +1,6 @@
+[submodule "ioc-web"]
+	path = ioc-web
+	url = https://github.com/YiGuan-z/ioc-web
+[submodule "my-ioc"]
+	path = my-ioc
+	url = https://github.com/YiGuan-z/my_ioc
